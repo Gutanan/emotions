@@ -11,7 +11,7 @@ function SafetySection() {
                     Cutting-edge technology now harnesses the power to detect emotions through state-of-the-art methods, encrypting the data seamlessly before embedding it into smart contracts. Remarkably, these emotions are not centrally stored but instead transparently recorded within blockchains, ensuring unparalleled security and immutability.
                 </p>
             </div>
-            <img src={safetyImage} alt="Safety Picture" className="safety-image" />
+            <img src={safetyImage} alt="Safety" className="safety-image" />
         </div>
     );
 }

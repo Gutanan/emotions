@@ -1,7 +1,7 @@
 import React from 'react';
 import './ShopSection.css';
 import barbieImage from './pictures/movie_barbie.png';
-import oppenheimerImage from './pictures/movie_oppenhiemer.png';
+//import oppenheimerImage from './pictures/movie_oppenhiemer.png';
 
 function ShopContent() {
     return (

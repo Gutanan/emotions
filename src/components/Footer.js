@@ -4,7 +4,7 @@ import './Footer.css';
 function Footer() {
     return (
         <footer className="footer">
-            <p>Need help? <a href="#">Contact support</a></p>
+            <p>Need help? <a href="github.com">Contact support</a></p>
         </footer>
     );
 }
